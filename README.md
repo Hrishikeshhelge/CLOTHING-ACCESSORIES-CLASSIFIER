@@ -19,7 +19,7 @@
 5. Jupyter notebook as IDE.
 * All the steps required to execute the project have been mentioned in the .ipynb file.
 ### CREDITS
-Special thanks to Dhaval Patel for the guidance through youtube tutorials.
+Special thanks to Zakash for the guidance through youtube Channel "Indian AI Production".
 
 
 
