@@ -18,8 +18,11 @@
 4. Matplotlib & seaborn for data visualization.
 5. Jupyter notebook as IDE.
 * All the steps required to execute the project have been mentioned in the .ipynb file.
+### DEEP NEURAL NETWORK
+![](IMG.jpg)
 ### CREDITS
 Special thanks to Mr.Akash Zade for the guidance through his youtube Channel "Indian AI Production".
+
 
 
 
